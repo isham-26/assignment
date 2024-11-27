@@ -1,6 +1,9 @@
 # Project link:https://assignment-teal-nu.vercel.app/
 # Next.js Full-Stack Project
 
+![image](https://github.com/user-attachments/assets/789f0788-92cd-4e7a-9ff5-076bbd2c93b1)
+
+
 A full-stack Next.js project bootstrapped with create-next-app and using *Node.js, **Express, and **MongoDB* with *Mongoose*.
 
 ## Table of Contents
